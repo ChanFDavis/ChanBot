@@ -1,0 +1,16 @@
+{
+  "name": "ChanBot",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "latest",
+    "cheerio": "^0.22.0",
+    "discord": "latest",
+    "discord.js": "^11.1.0",
+    "fs": "latest",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    // "start": "node app.js"
+  }
+}
